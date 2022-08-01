@@ -39,6 +39,7 @@ public class Main {
         devJucicarla.inscreverBootcamp(bootcamp);
         System.out.println("Conteúdos Inscritos Jucicarla:"+ devJucicarla.getConteudosInscritos());
         devJucicarla.progredir();
+        devJucicarla.progredir();
         System.out.println("-");
         System.out.println("Conteúdos Inscritos Jucicarla"+ devJucicarla.getConteudosInscritos());
         System.out.println("Conteúdos Concluidos Jucicarla:"+ devJucicarla.getConteudoConcluidos());
